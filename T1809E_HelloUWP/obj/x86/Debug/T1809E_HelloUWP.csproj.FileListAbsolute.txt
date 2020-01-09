@@ -1,0 +1,201 @@
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\App.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\App.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Examples\GridLayoutDemo.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Examples\GridLayoutDemo.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Examples\SplitViewExample.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Examples\SplitViewExample.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListStudent.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListStudent.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\StudentForm.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\StudentForm.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\App.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Examples\GridLayoutDemo.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Examples\SplitViewExample.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\MainPage.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListStudent.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\StudentForm.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\App.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Examples\GridLayoutDemo.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Examples\SplitViewExample.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\MainPage.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListStudent.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\StudentForm.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\T1809E_HelloUWP.csproj.CoreCompileInputs.cache
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\App.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Examples\GridLayoutDemo.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Examples\SplitViewExample.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\MainPage.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Pages\ListStudent.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Pages\StudentForm.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\T1809E_HelloUWP.xr.xml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\T1809E_HelloUWP.exe
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\T1809E_HelloUWP.pdb
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\resources.pri
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\HtmlAgilityPack.dll
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\HtmlAgilityPack.pdb
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\System.Xml.XPath.XmlDocument.dll
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\T1809E_HelloUWP.csproj.CopyComplete
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\T1809E_HelloUWP.exe
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\T1809E_HelloUWP.pdb
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\FxResources.System.Xml.XPath.XmlDocument.SR.resw
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\priconfig.xml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\resources.resfiles
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\pri.resfiles
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\qualifiers.txt
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\HtmlAgilityPack.pri.xml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Core\T1809E_HelloUWP.exe
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\T1809E_HelloUWP.build.appxrecipe
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Pages\LogInPage.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\T1809E_HelloUWP.csprojAssemblyReference.cache
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\LogInPage.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\LogInPage.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\LogInPage.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\LogInPage.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Pages\MemberInformation.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\MemberInformation.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\MemberInformation.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\MemberInformation.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\MemberInformation.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Pages\DemoFile.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\DemoFile.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\DemoFile.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\DemoFile.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\DemoFile.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\CameraDemo.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\CameraDemo.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\CameraDemo.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\CameraDemo.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Pages\CameraDemo.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\ApplicationLayout.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\ApplicationLayout.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\ApplicationLayout.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\ApplicationLayout.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\ApplicationLayout.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\bin\x86\Debug\Pages\ListSong.xbf
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListSong.g.i.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListSong.g.cs
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListSong.xaml
+C:\Users\xuan hung\source\repos\T1809E_HelloUWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListSong.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\T1809E_HelloUWP.exe
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\T1809E_HelloUWP.pdb
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\App.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\ApplicationLayout.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Examples\GridLayoutDemo.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Examples\SplitViewExample.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\MainPage.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Pages\CameraDemo.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Pages\DemoFile.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Pages\ListSong.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Pages\ListStudent.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Pages\LogInPage.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Pages\MemberInformation.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Pages\StudentForm.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\T1809E_HelloUWP.xr.xml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\T1809E_HelloUWP.exe
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\T1809E_HelloUWP.pdb
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\resources.pri
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\HtmlAgilityPack.dll
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\HtmlAgilityPack.pdb
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\System.Xml.XPath.XmlDocument.dll
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\T1809E_HelloUWP.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\App.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\App.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\ApplicationLayout.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\ApplicationLayout.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Examples\GridLayoutDemo.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Examples\GridLayoutDemo.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Examples\SplitViewExample.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Examples\SplitViewExample.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\CameraDemo.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\CameraDemo.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\DemoFile.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\DemoFile.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListSong.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListSong.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListStudent.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListStudent.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\LogInPage.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\LogInPage.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\MemberInformation.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\MemberInformation.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\StudentForm.g.i.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\StudentForm.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\App.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\ApplicationLayout.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Examples\GridLayoutDemo.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Examples\SplitViewExample.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\MainPage.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\CameraDemo.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\DemoFile.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListSong.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListStudent.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\LogInPage.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\MemberInformation.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\StudentForm.xaml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\App.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\ApplicationLayout.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Examples\GridLayoutDemo.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Examples\SplitViewExample.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\MainPage.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\CameraDemo.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\DemoFile.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListSong.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\ListStudent.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\LogInPage.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\MemberInformation.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\Pages\StudentForm.xbf
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\T1809E_HelloUWP.csproj.CopyComplete
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\HtmlAgilityPack.pri.xml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\FxResources.System.Xml.XPath.XmlDocument.SR.resw
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\priconfig.xml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\resources.resfiles
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\pri.resfiles
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\qualifiers.txt
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\Core\T1809E_HelloUWP.exe
+C:\Users\Admin\Source\Repos\T1809E_UWP\T1809E_HelloUWP\bin\x86\Debug\T1809E_HelloUWP.build.appxrecipe
